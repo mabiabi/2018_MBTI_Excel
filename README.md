@@ -1,6 +1,6 @@
 # MBTI Test Automation (Excel + VBA)
 
-An automated, self-service MBTI assessment tool built in Microsoft Excel using VBA. Designed for educational settings, it allows students to sit at a computer, answer the MBTI questionnaire, submit their data with a single click, and instantly see aggregated results in a management dashboard. (unified in one file to be put in the repo)
+An automated, self-service MBTI assessment tool built in Microsoft Excel using VBA. Designed for educational settings, it allows students to sit at a computer, answer the MBTI questionnaire, submit their data with a single click, and instantly see aggregated results in a management dashboard.
 
 > **Created in 2018** – This repository showcases the original project with a sample snapshot of real (anonymized) + python-generated usage data.
 
