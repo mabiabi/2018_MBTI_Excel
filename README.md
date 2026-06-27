@@ -51,11 +51,20 @@ Ideal for career counseling centers, school psychology workshops, or any group s
 
 ## Screenshots
 
-`Questions.png`
-`Concat.png`
-`Data.png`
-`Pivot.png`
-`Chart.png`
+<!-- Screenshots Gallery -->
+<table align="center">
+  <tr>
+    <td><img src="docs/screenshots/Questions.png" alt="Questions" width="400"></td>
+    <td><img src="docs/screenshots/Concat.png" alt="Concat" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/Data.png" alt="Data" width="400"></td>
+    <td><img src="docs/screenshots/Pivot.png" alt="Pivot" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="docs/screenshots/Chart.png" alt="Chart" width="400"></td>
+  </tr>
+</table>
 
 ## About the Project
 
