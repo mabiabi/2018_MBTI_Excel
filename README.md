@@ -36,7 +36,7 @@ An automated, self-service MBTI assessment tool built in Microsoft Excel using V
 
 ## Getting Started
 
-1. Download `MBTI_Automation.xlsm`.
+1. Download `MBTI_97_macro.xlsm`.
 2. **Enable macros** when prompted, or adjust your Trust Center settings.
 3. Use the form as a student would, or press `Alt+F11` to explore the VBA code.
 4. Check the dashboard sheet (may be hidden – unhide via VBA or Excel’s unhide command if needed) to view the summary.
