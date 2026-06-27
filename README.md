@@ -51,7 +51,11 @@ Ideal for career counseling centers, school psychology workshops, or any group s
 
 ## Screenshots
 
-*(Insert screenshots of the student form and the dashboard here, e.g., `screenshots/form.png` and `screenshots/dashboard.png`)*
+`Questions.png`
+`Concat.png`
+`Data.png`
+`Pivot.png`
+`Chart.png`
 
 ## About the Project
 
